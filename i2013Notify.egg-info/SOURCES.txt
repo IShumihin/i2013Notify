@@ -1,5 +1,6 @@
 setup.py
 i2013Notify/__init__.py
+i2013Notify/exception.py
 i2013Notify/i2013Notify.py
 i2013Notify.egg-info/PKG-INFO
 i2013Notify.egg-info/SOURCES.txt
