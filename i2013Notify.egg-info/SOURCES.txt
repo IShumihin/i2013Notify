@@ -1,0 +1,8 @@
+setup.py
+i2013Notify/__init__.py
+i2013Notify/i2013Notify.py
+i2013Notify.egg-info/PKG-INFO
+i2013Notify.egg-info/SOURCES.txt
+i2013Notify.egg-info/dependency_links.txt
+i2013Notify.egg-info/requires.txt
+i2013Notify.egg-info/top_level.txt
